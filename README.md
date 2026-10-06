@@ -3,7 +3,7 @@
 **Full-Stack Developer** based in Chennai, India. I build end-to-end web applications, from REST APIs and backend services to responsive frontends, and I use AI tools as part of my everyday workflow to build, debug, and ship faster.
 
 🌱 Learning: scalable backend architecture and modern frontend patterns  
-💼 Open to: **Full-Stack Developer** roles (onsite in Chennai or remote)  
+💼 Open to: **Full-Stack Developer** roles  
 📫 Reach me: [keerthiraj1806@gmail.com](mailto:keerthiraj1806@gmail.com)
 
 ---
@@ -37,5 +37,3 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keerthiraj1806@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthiraj-duraisamy )
-
-*Portfolio coming soon.*
